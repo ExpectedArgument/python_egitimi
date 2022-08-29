@@ -34,4 +34,4 @@ YTU - MINT Kulubu Python Egitimi
     • OpenCV (Goruntu isleme)
 **Hafta 5:**
     • OpenCV uygulamalari (serit tanima, renk isleme, goruntu esitleme)
-    • Kapanis 
+    • Kapanis
