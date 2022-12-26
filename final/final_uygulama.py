@@ -1,4 +1,4 @@
-from left_right_lane import left_right_lane as _
+from final.left_right_lane import left_right_lane as _
 import cv2
 
 # imgcv2 = cv2.imread('lane1.png')
