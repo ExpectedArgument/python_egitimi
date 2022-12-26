@@ -1,7 +1,7 @@
 ## Python Egitimi
 YTU - MINT Kulubu Python Egitimi
 
-![final uygulamasi olarak aracin bulundugu seritleri algilama projesi](./lane1_out.png)
+![final uygulamasi olarak aracin bulundugu seritleri algilama projesi](./final/lane1_out.png)
 
 
 
